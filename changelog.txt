@@ -1,0 +1,8 @@
+Product ID: 6, Column: Name, Old Value: Monitor, New Value: Monitor, Timestamp: null
+Product ID: 6, Column: Description, Old Value: Keyboard, New Value: Keyboard, Timestamp: null
+Product ID: 6, Column: Quantity, Old Value: 5, New Value: 55, Timestamp: null
+Product ID: 6, Column: ReorderPoint, Old Value: 0, New Value: 0, Timestamp: null
+Product ID: 7, Column: Name, Old Value: Dragon, New Value: Dragon, Timestamp: null
+Product ID: 7, Column: Description, Old Value: Very scary, New Value: Very scary, Timestamp: null
+Product ID: 7, Column: Quantity, Old Value: 16, New Value: 13, Timestamp: null
+Product ID: 7, Column: ReorderPoint, Old Value: 1, New Value: 1, Timestamp: null
